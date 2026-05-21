@@ -1,0 +1,6 @@
+django==4.2.*
+django-ninja
+django-cors-headers
+python-dotenv
+email-validator
+PyJWT
