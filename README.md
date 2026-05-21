@@ -1,7 +1,7 @@
 # Application Workflow Tracker
 
 **Author:** Peter Martin  
-**Email:** petermartin602@gmail.com
+**Email:** njoroge.kirika.peter@gmail.com
 
 A small, secure workflow tracking application built with a **Django/Django Ninja** backend and a **React/Vite** frontend.
 
